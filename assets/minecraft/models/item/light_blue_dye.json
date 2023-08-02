@@ -27,6 +27,12 @@
             "predicate": {
                 "custom_model_data": 1504
             }
+        },
+        {
+            "model": "minecraft:item/backpack_close",
+            "predicate": {
+                "custom_model_data": 1505
+            }
         }
     ]
 }
