@@ -21,6 +21,12 @@
             "predicate": {
                 "custom_model_data": 1503
             }
+        },
+        {
+            "model": "minecraft:item/diamond_ingot",
+            "predicate": {
+                "custom_model_data": 1504
+            }
         }
     ]
 }
